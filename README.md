@@ -67,9 +67,7 @@ rosrun defraction_map_finder defraction_map_finder
 adjust the video with correction map file
 ```
 roslaunch jir_image_remapper image_remapper.launch
-.
-.
-roslaunch jir_image_remapper image_remapper.launch
+
 ```
 
 View the adjusted image
