@@ -69,7 +69,7 @@ adjust the video with correction map file
 roslaunch jir_image_remapper image_remapper.launch
 .
 .
-roslaunch jir_image_remapper gopro_remapper.launch
+roslaunch jir_image_remapper image_remapper.launch
 ```
 
 View the adjusted image
